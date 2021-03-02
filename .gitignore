@@ -1,0 +1,6 @@
+.gradle
+out
+.idea
+build
+gradle
+src/main/main.iml
